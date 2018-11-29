@@ -30,5 +30,6 @@
 	<classpathentry kind="lib" path="C:/Users/mizan/Desktop/Selenium tests/Practice_Java/Practice/Seleniums-libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="C:/Users/mizan/Desktop/Selenium tests/Practice_Java/Practice/Seleniums-libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/mizan/Desktop/Selenium tests/Practice_Java/Practice/Seleniums-libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
